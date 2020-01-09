@@ -1,7 +1,4 @@
-/* Yvan Gihoza
- *  010785599
- *  Assignment #3
- */
+
  
 #define USER_LINE_MAX 128 
 char userLine[USER_LINE_MAX];
